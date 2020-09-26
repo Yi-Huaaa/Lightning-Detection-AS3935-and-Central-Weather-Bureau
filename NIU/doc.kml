@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>中央氣象局閃電資料: 2020-07-19 00:05 ~ 2020-07-19 01:05</name>
+<StyleMap id="m_valid_pos-pushpin0"><Pair><key>normal</key><styleUrl>#s_valid_pos-pushpin0</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#s_valid_pos-pushpin_hl</styleUrl></Pair></StyleMap>
+<Style id="s_valid_pos-pushpin0"><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href></Icon><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><scale>0.2</scale></LabelStyle></Style>
+<Style id="s_valid_pos-pushpin_hl"><IconStyle><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href></Icon><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><scale>0.2</scale></LabelStyle></Style>
+<StyleMap id="m_valid_cloud-pushpin0"><Pair><key>normal</key><styleUrl>#s_valid_cloud-pushpin0</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#s_valid_cloud-pushpin_hl</styleUrl></Pair></StyleMap>
+<Style id="s_valid_cloud-pushpin0"><IconStyle><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><scale>0.2</scale></LabelStyle></Style>
+<Folder>
+<name>閃電資料 (0筆)</name>
+<open>0</open>
+</Folder>
+</Document>
+</kml>
