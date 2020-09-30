@@ -4,7 +4,7 @@
 ## Introduction
 Microcontroller: Raspberry Pi 3b+, Raspberry Pi 4  
 Sensor: AS3935, Lightning Detector  
-Laguage: Python, Shell
+Laguage: Python, Shell  
 Protocal: SPI protocal, which is different from others.  
 <img width="400" height="400" src="https://www.taiwaniot.com.tw/wp-content/uploads/2019/08/15441-SparkFun_Lightning_Detector_-_AS3935_-01.jpg"/><br />  
 
